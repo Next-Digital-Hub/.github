@@ -1,7 +1,5 @@
 # 🌐 Next Digital - Repositorios de Desarrollo
 
-![Next Digital Logo](https://avatars.githubusercontent.com/u/174029727?s=400&u=9fb86e6550a9a7bad92221ec5845c52a78800880&v=4)
-
 Bienvenidos al repositorio de desarrollo de **Next Digital** en GitHub. Aquí encontrarás todos los recursos, documentación y proyectos en los que estamos trabajando.
 
 ## 📁 Repositorios
