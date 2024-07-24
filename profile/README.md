@@ -2,6 +2,8 @@
 
 Bienvenidos al repositorio de desarrollo de **Next Digital** en GitHub. Aquí encontrarás todos los recursos, documentación y proyectos en los que estamos trabajando.
 
+[Pincha aquí para ver más documentación específica de los repositorios](https://github.com/Next-Digital-Hub/documentation)
+
 ## 📁 Repositorios
 
 Encuentra nuestros proyectos organizados en las siguientes categorías:
